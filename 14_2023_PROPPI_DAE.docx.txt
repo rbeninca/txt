@@ -1,0 +1,623 @@
+﻿Reitor
+Maurício Gariba Júnior
+
+
+
+
+Diretora Executiva
+
+
+Andréa Martins Andujar
+
+
+
+
+Pró-Reitora de Pesquisa, Pós-Graduação e Inovação
+
+
+Flavia Maia Moreira
+
+
+
+
+Diretor de Pesquisa e Pós-graduação
+
+
+Clóvis Antônio Petry
+
+
+
+
+Coordenadora de Pesquisa
+
+
+Ana Cláudia Burmester
+
+
+
+
+Equipe Técnica da Coordenadoria de Pesquisa
+
+
+Bárbara Colossi Felippe, Cleverson Luiz Rachadel
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+1. Das disposições iniciais        5
+2. Objetivos        5
+   1. Objetivo geral        5
+   2. Objetivos específicos        5
+3. Do apoio concedido ao coordenador do projeto        6
+4. Da concessão de bolsas discentes        8
+5. Calendário do edital        9
+5. Do projeto de pesquisa        10
+6. Dos membros da equipe executora        12
+7. Da análise e julgamento das propostas        12
+8. Da publicação dos resultados do edital e da interposição de recurso        14
+9. Dos procedimentos para a seleção de discentes bolsistas        15
+10. Dos procedimentos para a execução dos projetos aprovados        16
+11. Do aproveitamento do resultado final do edital pelo câmpus        16
+12. Da desistência de participação no edital        17
+13. Do cancelamento de projeto de pesquisa        17
+14. Do cancelamento e substituição de bolsistas        18
+15. Da substituição da coordenação do projeto de pesquisa        18
+17. Do monitoramento e avaliação        19
+18. Disposições finais        19
+
+
+
+
+  
+
+
+
+O Reitor do Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina – IFSC, professor Maurício Gariba Júnior, no uso de suas atribuições legais, torna público o processo de seleção das propostas de projetos de pesquisa como princípio educativo, conforme as disposições deste edital.
+
+
+
+
+  
+
+
+
+
+
+O IFSC tem, dentre suas finalidades, formar e qualificar profissionais no âmbito da educação tecnológica, nos diferentes níveis e modalidades de ensino, para os diversos setores da economia, bem como realizar pesquisa aplicada e promover o desenvolvimento tecnológico de novos processos, produtos, serviços e conhecimentos, em estreita articulação com os setores produtivos e a sociedade, especialmente de abrangência local e regional, oferecendo mecanismos para a educação continuada. Nesta perspectiva, as atividades de pesquisa devem ser intrínsecas ao ensino, constituindo-se em um princípio educativo gerador da autonomia intelectual dos estudantes. A unidade entre ensino e pesquisa é instrumento essencial do processo de ensino e de aprendizagem, pois o ser humano possui uma natureza investigativa, produtora de saberes.
+As atividades de pesquisa estão presentes em todas as ofertas de cursos do IFSC. Seja nos espaços produtores de saberes, como laboratórios, salas de aula, bibliotecas, seja na frequência nas Unidades Curriculares e Estágios, na produção dos Projetos Integradores e/ou na participação nos projetos de Iniciação Científica, o educando vê-se instigado a analisar, questionar, criticar, buscar soluções e alternativas para as questões que se apresentam. Tais atividades são de importância estratégica para a integração ensino-pesquisa-extensão por oportunizar aos discentes a produção de novos conhecimentos e sua aplicação, sendo muitos deles de interesse da comunidade onde estão inseridos.
+O programa de apoio ao desenvolvimento de projetos que contemplem a pesquisa como princípio educativo visa conceder apoio financeiro e bolsas para projetos que atendam a essas finalidades.
+
+
+
+
+  
+
+
+
+
+
+   1. Todos os documentos e formulários, manuais e normativas referenciados neste edital estão disponíveis na Intranet, aba Pesquisa, Pós-Graduação e Inovação, Documentos, Formulários e Modelos de documentos - Diretoria de Pesquisa e Pós-Graduação e deverão ser submetidos em sua versão atualizada.
+      2. Manual para submissão de projetos de pesquisa no IFSC - para orientar a submissão dos projetos no SIGAA.
+      3. Manual para indicação, cancelamento e substituição de bolsistas e não bolsistas - para orientar os procedimentos quanto aos bolsistas e também discentes voluntários.
+      4. Manual para execução de projetos de pesquisa no IFSC - para orientar as etapas de desenvolvimento da pesquisa.
+      5. Manual para apresentação de resultados de projetos de pesquisa e prestação de contas - para orientar a apresentação e submissão dos resultados da pesquisa.
+      6. Resolução CEPE/IFSC Nº 63, de 18 de agosto de 2022 - regulamenta as atividades de pesquisa no IFSC e estabelece os requisitos e compromissos do coordenador dos projetos de pesquisa.
+
+
+
+
+  
+
+
+
+
+
+   1. Objetivo geral - O presente Edital tem por objetivo geral selecionar propostas para apoio financeiro a projetos que trabalhem a pesquisa como princípio educativo e que proponham, em conformidade com a lei de criação dos Institutos Federais de Educação, Ciência e Tecnologia, a investigação, geração e adaptação de soluções técnicas e tecnológicas em atendimento às demandas e peculiaridades da comunidade regional onde estão inseridos.
+
+
+   2. Objetivos específicos - Como objetivos específicos do presente edital constam:
+      1. Fomentar o desenvolvimento de projetos que contemplem a pesquisa como princípio educativo.
+      2. Promover a participação de discentes em situação de vulnerabilidade social em atividades de pesquisa.
+
+
+
+
+      3. Apoiar projetos que estejam articulados com o mundo do trabalho e os segmentos sociais com ênfase na produção, desenvolvimento, difusão de conhecimentos científicos e tecnológicos e na transferência de tecnologias de acordo com as demandas da sociedade.
+      4. Promover a pesquisa aplicada, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico.
+      5. Estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional.
+      6. Contribuir para a melhoria da qualidade do ensino e da formação dos discentes do IFSC por meio do desenvolvimento de projetos de pesquisa.
+      7. Aumentar significativamente a participação de servidores e discentes em atividades de pesquisa, inovação e transferência de tecnologia.
+      8. Proporcionar a aprendizagem de técnicas e métodos de pesquisa, estimulando o pensamento científico e a criatividade.
+
+
+
+
+  
+
+
+
+   1. Aos projetos de pesquisa contemplados com bolsas discentes poderá ser concedido Auxílio Financeiro ao Pesquisador. Esse recurso financeiro será pago ao servidor coordenador, a título de apoio ao desenvolvimento do projeto, devendo ser obrigatoriamente utilizado, em sua totalidade, no período estipulado pelo edital, para viabilizar a pesquisa proposta, conforme o detalhamento de investimentos previsto pelo proponente e aprovado pelo Comitê Permanente de Pesquisa, Pós-Graduação e Inovação.
+   2. O aporte financeiro total previsto neste edital para Auxílio Financeiro ao Pesquisador é de R$66.000,00 (Sessenta e seis mil reais), podendo ser alterado em função de mudanças no orçamento da PROPPI/Reitoria.
+   3. O valor máximo do Auxílio Financeiro ao Pesquisador, por projeto, será de R$1.500,00 (um mil e quinhentos reais).
+   4. O valor do Auxílio Financeiro ao Pesquisador será pago em até 2 parcelas, que poderão ser creditadas integralmente no ano de 2023 ou parcialmente, nos anos de 2023 e 2024.
+   5. Os itens financiáveis e não financiáveis e as orientações para preenchimento do orçamento do projeto deverão ser consultados no Manual para submissão de projetos de pesquisa.
+
+
+
+
+   6. Durante o processo de seleção das propostas, o Comitê Permanente de Pesquisa, Pós-Graduação e Inovação, com base nas recomendações das avaliações ad hoc e das análises realizadas pela equipe técnica da Coordenadoria de Pesquisa da PROPPI, poderá glosar elementos de despesa indicados na proposta, aprovando valor de apoio financeiro ao pesquisador diferente daquele solicitado pelo coordenador do projeto.
+      1. A glosa de elementos de despesa ocorrerá nos seguintes casos:
+         1. Itens não financiáveis pelo edital;
+         2. Elementos de despesa com valores excedentes aos permitidos pelo edital;
+         3. Ausência de descrição detalhada referentes a elementos de despesa solicitados;
+         4. Ausência de vínculo dos elementos de despesa com os objetivos do projeto, etapas de desenvolvimento e metodologia da proposta;
+         5. Solicitação de itens para uso pessoal e/ou em equipamentos pessoais de servidores ou discentes;
+         6. Solicitação de elementos de despesa, sendo bens móveis ou imóveis, que já existam no IFSC e podem ser disponibilizados para os projetos de pesquisa, sem justificativa adequada para a aquisição destes elementos no âmbito do projeto.
+   7. Não é permitida a aquisição de itens que não estejam em conformidade com a aprovação realizada pelo Comitê Permanente de Pesquisa e Pós-Graduação e Inovação. Em caso de dúvidas sobre possíveis cortes, o pesquisador deverá consultar o resultado final do edital, publicado na intranet, onde constará a descrição detalhada dos valores aprovados e/ou glosados por projeto.
+   8. É de responsabilidade do pesquisador verificar se houve cortes orçamentários.
+   9. O Coordenador do Projeto deverá solicitar alteração orçamentária, que implica a alteração do detalhamento dos itens de despesa, em caso de necessidade de inclusão e exclusão de itens, até os 15 dias anteriores ao término da execução do projeto.
+      1. As orientações para as alterações de despesas devem ser consultadas no Manual para a execução de projetos de pesquisa.
+   10. O aporte financeiro aos Coordenadores dos Projetos poderá ser distribuído conforme a ordem de classificação das propostas aprovadas, enquanto houver recurso disponível.
+   11. O pagamento do Auxílio Financeiro ao Pesquisador poderá ser interrompido a qualquer momento, em função da falta de disponibilidade financeira da PROPPI/Reitoria.
+   12. A concessão de apoio financeiro ao coordenador de projeto poderá ser cancelada pela PROPPI, sem prejuízo de outras providências cabíveis, quando do não cumprimento, sem justificativa, das atividades previstas no cronograma ou quando da ocorrência de algum fato cuja gravidade justifique tal procedimento.
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+   1. O aporte financeiro total previsto neste edital para bolsas discentes é de R$ 492.800,00 (quatrocentos e noventa e dois mil e oitocentos reais), sendo R$ 456.500,00 (quatrocentos e cinquenta e seis mil e quinhentos reais) com recursos da Assistência Estudantil (Ação 2994) da Pró-Reitoria de Ensino/Diretoria de Assuntos Estudantis – DAE e R$ 36.300,00 (trinta e seis mil e trezentos reais) com recursos da Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação, podendo ser alterado em função de mudanças no orçamento do IFSC, da PROPPI e da Assistência Estudantil.
+   2. Para cada projeto aprovado serão concedidas bolsas discentes, sendo estas, prioritariamente, destinadas a alunos que possuam Índice de Vulnerabilidade Social (IVS) ativo.
+      1. Somente serão aceitas indicações de bolsistas que não possuam Índice de Vulnerabilidade Social (IVS) ativo acompanhadas de justificativa fundamentada.
+   3. Cada proponente deverá solicitar, obrigatoriamente, no mínimo, 1 (uma) e no máximo 2 (duas) bolsas discentes.
+      1. Em virtude da disponibilidade financeira da Coordenadoria de Pesquisa/PROPPI, o quantitativo de bolsista por projeto poderá ser alterado.
+   4. Serão concedidas, a cada discente vinculado ao projeto (Discente Pesquisador Bolsista), bolsas a serem pagas em 8 parcelas mensais de R$ 700,00 (setecentos reais) cada, a partir de Março de 2024, as quais poderão ser interrompidas em função da falta de recursos financeiros por parte do IFSC.
+   5. No mínimo serão apoiados dois projetos por Câmpus, de acordo com a disponibilidade financeira da PROPPI/IFSC e respeitadas a análise e julgamento das propostas conforme item 7.
+   6. Nos casos em que o Câmpus tiver um número de projetos classificados em quantitativo menor que o número mínimo de projetos a serem contemplados conforme o item 4.5, serão contemplados projetos de outros Câmpus, respeitando, obrigatoriamente, a pontuação geral obtida pelo projeto.
+   7. O número de bolsas discentes solicitadas, por projeto, será concedido conforme disponibilidade de recursos financeiros do IFSC e da classificação dos projetos.
+
+
+
+
+   8. Os projetos de pesquisa aprovados poderão receber bolsas discentes conforme a sua classificação, independentemente de terem sido ou não selecionados para a concessão de Auxílio Financeiro ao Pesquisador, no caso de a disponibilidade de bolsas ser maior que o solicitado pelos projetos contemplados com o Auxílio Financeiro ao Pesquisador.
+   9. A concessão da bolsa discente poderá ser cancelada pela PROPPI, sem prejuízo de outras providências cabíveis, quando do não cumprimento, sem justificativa, das atividades previstas no cronograma ou quando da ocorrência de algum fato cuja gravidade justifique tal procedimento.
+   10. O pagamento das bolsas será realizado diretamente ao bolsista, por meio de crédito em conta corrente ou poupança, vinculada necessariamente apenas à titularidade do seu CPF, não sendo aceitas contas do tipo salário, de terceiros, ou contas conjuntas.
+   11. As bolsas destinam-se exclusivamente a estimular a participação de discentes em atividades de pesquisa relacionadas aos projetos contemplados neste edital. É vedada a utilização da bolsa discente para remunerar serviços prestados, sob pena de responsabilização pessoal nas esferas administrativa, civil e criminal a quem der causa ao desvio de finalidade das bolsas.
+
+
+
+
+  
+
+
+
+Atividade
+	Datas
+	Lançamento do edital
+	06 de outubro de 2023
+	Período para impugnação do edital
+	06 a 09 de outubro de 2023
+	Período de submissão
+	12 de outubro a 06 de novembro de 2023
+	Divulgação do resultado parcial da 1ª etapa
+	09 de novembro de 2023
+	Prazo para envio de recursos da 1ª etapa
+	Até 10 de novembro de 2023
+	Divulgação do resultado final da 1ª etapa
+	13 de novembro de 2023
+	Período de avaliação do mérito dos projetos
+	10 a 23 de novembro de 2023
+	Divulgação do resultado parcial 2ª etapa
+	27 de novembro de 2023, até as 12h
+	Prazo para envio de recursos
+	Até 28 de novembro de 2023, às 12h
+	Divulgação do resultado final do edital
+	29 de novembro de 2023, até as 17h
+	Formalização para o recebimento do Auxílio Financeiro ao Pesquisador, por meio do envio do Termo de Compromisso e documentos
+complementares - formulário Limesurvey
+	
+
+
+
+29 de novembro a 06 de dezembro de 2023
+	
+
+
+
+
+
+Indicação de bolsistas - formulário Limesurvey
+	29 de janeiro a 23 de fevereiro de 2024
+	Período de execução dos projetos contemplados
+no edital
+	
+
+Março a outubro de 2024
+	Entrega do relatório de atividades discentes ao
+Coordenador do Projeto
+	
+
+Até 31 de outubro de 2024
+	Entrega do relatório final de atividades para o
+Coordenador de Pesquisa do Câmpus
+	
+
+Até 18 de novembro de 2024
+	Submissão do relatório final (incluídos os relatórios dos discentes), assinado pelo
+Coordenador de Pesquisa do Câmpus, no SIGAA
+	
+
+Até 30 de novembro de 2024
+	Previsão de realização da Mostra de Iniciação
+Científica
+	
+
+novembro/2024
+	Envio do comprovante da divulgação dos
+resultados da pesquisa
+	
+
+Até 30 de abril de 2025
+	* Os prazos de indicação dos alunos e de execução do edital estão sujeitos à alteração em virtude da disponibilidade orçamentária do IFSC.
+  
+
+
+
+   1. O proponente, que será o coordenador do projeto, deverá atender aos requisitos conforme previsto na Resolução CEPE/IFSC Nº 63, de 18 de agosto de 2022, que regulamenta as atividades de pesquisa no IFSC, além de:
+      1. Ter formação concluída em nível superior (curso de graduação completo).
+      2. Ter Currículo Lattes atualizado no ano de 2023.
+      3. Não ser ocupante de cargo de direção (CD) no IFSC durante o período de execução do projeto.
+      4. Não estar envolvido diretamente no processo de análise, julgamento das propostas de projeto e homologação dos resultados deste edital.
+   2. A PROPPI se reserva ao direito de conferir, a qualquer momento durante a vigência deste edital, os requisitos exigidos para Coordenador do Projeto. Em caso de verificação de não atendimento de qualquer requisito, a proposta será desclassificada, sob pena de responsabilização pessoal nas esferas administrativa, civil e criminal.
+
+
+
+
+  
+
+
+
+   1. O preenchimento do formulário do projeto de pesquisa e a sua submissão pelo SIGAA-Pesquisa devem ocorrer seguindo o Manual para submissão de projetos de pesquisa no IFSC.
+
+
+
+
+   2. Os projetos deverão priorizar o trabalho coletivo e interdisciplinar, em temas e áreas do conhecimento que estejam relacionados com as temáticas desenvolvidas nos cursos oferecidos nos Câmpus do IFSC.
+   3. Os projetos deverão, ainda, abordar temas de relevância científica e social, apresentando as justificativas que atestem a importância/necessidade da pesquisa para o atendimento de demandas regionais.
+   4. O projeto de pesquisa deverá ter como elemento norteador a Pesquisa como Princípio Educativo. Nele, deverá estar especificado o atendimento a alguma demanda da sociedade onde o Câmpus está inserido e/ou se está articulado com Unidades Curriculares ou atividades regulares dos Cursos do Câmpus.
+   5. As propostas deverão considerar os critérios de avaliação indicados no item 9.2 do presente edital.
+   6. Considerando-se os objetivos deste edital, não serão aceitos projetos de extensão e/ou de ensino. Tais propostas serão automaticamente desclassificadas.
+   7. A proposta de projeto deverá ser submetida, exclusivamente, pelo SIGAA - Pesquisa.
+   8. O Coordenador do Projeto ao submeter a proposta poderá indicar até no máximo 2 (dois) Pesquisadores Colaboradores na equipe executora, desde que a inclusão do(s) Pesquisador(es) Colaborador(es) seja de grande relevância ou imprescindível para a execução do projeto.
+      1. Não serão aceitas inclusões e substituições de pesquisadores após o período de submissão.
+      2. A carga horária do Pesquisador Colaborador não deve exceder a do Coordenador do Projeto, sendo que ambas devem estar de acordo com a legislação em vigor do IFSC.
+   9. Na submissão do projeto o proponente deverá apresentar os seguintes documentos:
+1. “Formulário para Apresentação de Projetos de Pesquisa” devidamente preenchido e com a autodeclaração ASSINALADA.
+2. “Termo de Ciência Projeto de Pesquisa” do Coordenador e dos membros da equipe executora, se houver.
+3. Espelho de Grupo de Pesquisa com a situação atual “certificado”.
+4.         Comprovação de gozo de licença-maternidade nos últimos 5 anos, se for o caso, para fins de desempate.
+
+
+
+
+   10. Os proponentes que não cumprirem todos os passos para a submissão terão suas inscrições automaticamente invalidadas, não sendo aceitas propostas enviadas por outros meios, inclusive entregues pessoalmente e/ou encaminhadas em formulários fora do padrão dos indicados neste edital e disponibilizados na Intranet do IFSC, bem como fora do período de submissão conforme o cronograma deste edital.
+   11. Caso haja mais de uma submissão de uma mesma proposta, será considerada, para fins de avaliação, a última versão enviada.
+   12. O coordenador somente poderá submeter uma proposta de projeto de pesquisa a este edital.
+   13. A PROPPI não se responsabiliza por fatores de ordem técnica relacionados à submissão do projeto.
+      1. Em caso de problemas técnicos durante a submissão, o proponente deverá enviar e-mail para suporte.ti@ifsc.edu.br, relatando o ocorrido, preferencialmente, com a(s) respectiva(s) tela(s)/imagem(ns) gerada(s) no sistema, a fim de que sejam tomadas as providências cabíveis.
+
+
+
+
+  
+
+
+
+   1. Obrigatoriamente, a equipe executora dos projetos deverá ser composta pelo Coordenador do Projeto e por, pelo menos, 1 (um) Discente Pesquisador Bolsista até o limite máximo de 2 (dois) por projeto.
+      1. O(s) discente(s) pesquisador(es) bolsista(s) devem atender aos requisitos previstos no Manual para indicação, cancelamento e substituição de bolsistas e não bolsistas e devem, preferencialmente, ter Índice de Vulnerabilidade Social (IVS) válido durante o período que compreende a execução do projeto.
+   2. Os projetos poderão contar também com a participação de até 2 (dois) Pesquisadores Colaboradores internos.
+   3. A equipe executora poderá também ser composta por discentes voluntários.
+      1. A formalização da inclusão do discente voluntário no projeto se dará por meio do preenchimento e assinatura do Termo de compromisso do aluno voluntário e de sua entrega para o Coordenador de Pesquisa do Câmpus, seguindo os procedimentos previstos no Manual para indicação, cancelamento e substituição de bolsistas e não bolsistas.
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+9. 1 A análise e julgamento das propostas ocorrerá em duas etapas:
+
+
+
+
+ETAPA
+	Característica da etapa
+	Etapa 1 - Análise documental e de adequação da
+proposta aos requisitos do edital
+	Eliminatória
+	Etapa 2 - Mérito do projeto
+	Classificatória e Eliminatória
+	
+
+      1. Na Etapa 1 serão avaliados os itens 6, 7 e 9.5 deste edital, sendo que o não atendimento deles implicará na desclassificação imediata do projeto.
+      2. Na Etapa 2 será avaliado o mérito do projeto, conforme indicado no item 9.2.
+   2. Para fins de avaliação, análise e julgamento das propostas de projetos, na etapa 2, serão considerados, até o limite de sua respectiva pontuação, os critérios indicados na tabela abaixo:
+Critérios de avaliação
+	Gradiente de
+pontuação
+	Pontuação
+máxima
+	Fator
+Multiplicador
+	1. Relevância científica, tecnológica e social do projeto, contemplando a Pesquisa como Princípio
+Educativo
+	
+
+
+
+
+
+
+
+0 a 4 - Frágil
+5 a 9 - Regular
+10 a 14 - Bom
+15 a 20 - Ótimo
+	
+
+20
+	
+
+1,5
+	2. Fundamentação técnico-científica do projeto e
+apresentação geral do mesmo
+	20
+	1
+	3. Articulação com atividades de ensino (unidades
+curriculares dos Cursos)
+	20
+	1
+	4. Potencial do projeto para o desenvolvimento e
+inovação, visando à solução de problemas reais da comunidade
+	
+
+20
+	
+
+1,5
+	Total de pontos com fator multiplicador = 100
+	
+
+      1. O gradiente de pontuação, na tabela acima, se refere à qualidade (frágil, regular, bom, ótimo) apresentada pelo projeto no respectivo critério de avaliação, podendo receber entre 0 e 20 pontos.
+      2. A pontuação atribuída ao projeto em cada critério será multiplicada pelo fator correspondente, conforme tabela acima.
+
+
+
+
+   3. O mérito do projeto será avaliado por pareceristas convidados pela PROPPI.
+   4. A avaliação final com nota inferior a 50 pontos, no critério mérito do projeto, implicará na desclassificação da proposta.
+   5. No caso de constatação, feita pelo Comitê Permanente de Pesquisa, Pós-Graduação e Inovação ou pelos avaliadores, de plágio ou plágio de si mesmo (projeto de pesquisa já contemplado em edital anterior), a proposta será desclassificada, sob pena de responsabilização pessoal nas esferas administrativa, civil e criminal.
+      1. Para fins de análise da similaridade da proposta suspeita de corresponder a plágio de si mesmo, será considerada a semelhança entre os respectivos títulos, referenciais teóricos, objetivos de pesquisa, metodologias e resultados esperados.
+   6. Para fins de desempate serão considerados, pela ordem:
+1. ter gozado de licença-maternidade nos últimos 5 anos, desde que comprovada por meio de documento anexo no momento da inscrição do projeto;
+2. maior nota obtida no critério de análise ‘Relevância científica, tecnológica e social do projeto, contemplando a Pesquisa como Princípio Educativo’;
+3.         maior nota obtida no critério de análise ‘Potencial do projeto para o desenvolvimento e inovação, visando à solução de problemas reais da comunidade’.
+
+
+
+
+  
+
+
+
+
+
+   1. O resultado parcial da Etapa 1 apresentará lista dos projetos submetidos identificados somente por seus códigos, indicando também o câmpus de origem e, quando for o caso, motivo da desclassificação.
+   2. O resultado final da Etapa 1 será publicado após avaliação de recursos, quando houver, conforme calendário do edital.
+   3. O resultado parcial da Etapa 2 apresentará, em ordem de classificação: os projetos contemplados identificados por seus códigos e câmpus; a quantidade de bolsas discentes recebidas; os valores do Auxílio Financeiro ao Pesquisador aprovado; os cortes orçamentários, se houver; a necessidade de cadastro no SISGEN ou outros cadastros e
+
+
+
+
+autorizações para a pesquisa; e a nota da proposta; incluindo também os projetos classificados, mas que não receberão recursos financeiros ou bolsas da PROPPI.
+   4. Conforme estabelecido no calendário do edital, após a análise dos recursos da Etapa 2, será divulgado o resultado final do edital, contra o qual não caberá mais recurso.
+   5. Após a divulgação dos resultados parciais das Etapas 1 e 2, os proponentes poderão interpor recurso em única instância ao Comitê Permanente de Pesquisa, Pós-Graduação e Inovação, que deliberará sobre o recurso. Para tal, deverá preencher e assinar o “Formulário Recurso”, disponível na Intranet, e enviar, via formulário LimeSurvey, por meio da URL https://limesurvey.ifsc.edu.br/index.php/972988?lang=pt-BR, dentro do prazo estabelecido.
+   6. Não poderão ser objetos de recurso:
+      1. informações adicionais que tenham qualquer relação com a alteração do mérito da proposta original;
+      2. envio de documentos complementares aos originariamente encaminhados;
+      3. questionamentos quanto ao mérito das avaliações realizadas.
+   7. É de responsabilidade dos proponentes o acompanhamento das etapas e resultados do edital.
+   8. Após cada etapa, a Coordenadoria de Pesquisa/PROPPI alterará a situação dos projetos, no SIGAA, para “Reprovado”; “Aprovado”; "Classificado", conforme cada caso.
+
+
+  
+
+
+
+
+
+   1. Após a divulgação do resultado final, os Coordenadores dos Projetos aprovados deverão promover a divulgação da oportunidade de participação de discentes bolsistas em seus projetos.
+   2. Prioritariamente, conforme os objetivos deste edital, devem ser selecionados discentes que possuem Índice de Vulnerabilidade Social (IVS) válido.
+   3. A listagem de discentes que possuem Índice de Vulnerabilidade Social (IVS) válido será enviada pela PROPPI para os Coordenadores dos Projetos aprovados após a divulgação do resultado final do edital.
+
+
+
+
+   4. Os critérios de seleção de bolsistas discentes, estabelecidos no âmbito dos projetos de pesquisa, não poderão implicar em prejuízo de participação de discentes que possuem Índice de Vulnerabilidade Social (IVS) válido.
+   5. Os Câmpus do IFSC, a seu critério, poderão, por intermédio de suas Coordenadorias de Pesquisa e Inovação ou setores equivalentes, auxiliarem os coordenadores de projetos no processo de publicização e seleção de bolsistas no âmbito deste edital.
+   6. O processo de seleção de discentes bolsistas deve atender aos princípios da administração pública, a legislação em vigor e as regulamentações institucionais.
+
+
+
+
+  
+
+
+
+   1. Após a divulgação do resultado final, os Coordenadores dos Projetos aprovados deverão, dentro do prazo estabelecido neste edital, providenciar:
+      1.         Cadastro do projeto no SISGEN, se indicada necessidade pelo pesquisador/avaliador;
+      2. O preenchimento e a assinatura dos documentos necessários à formalização da concessão de bolsas, Auxílio Financeiro ao Pesquisador e participação dos Pesquisadores Colaboradores.
+      3. A solicitação de cadastro dos bolsistas no SIAFI.
+      4.         Formalizar a concessão de bolsas, do Auxílio Financeiro ao Pesquisador e comprovação do cadastro no SISGEN (se necessário), por meio do envio dos documentos através do preenchimento do formulário LimeSurvey, disponível na Intranet, junto ao edital.
+   2. Os procedimentos para a indicação dos bolsistas devem seguir as orientações do Manual para indicação, cancelamento e substituição de bolsistas e não bolsistas.
+   3. Os demais procedimentos para formalizar e dar início à pesquisa encontram-se explicados no Manual para execução de projetos de pesquisa no IFSC.
+
+
+
+
+  
+
+
+
+
+
+   1. A classificação dos projetos de pesquisa submetidos a este edital poderá ser aproveitada pelos Câmpus, para concessão de apoio financeiro aos projetos classificados que não forem contemplados com o Auxílio Financeiro ao Pesquisador e/ou bolsas discentes pela PROPPI/Reitoria. Tal aproveitamento deverá seguir todas as disposições deste edital e ter sua previsão de recursos oriunda, integralmente, do respectivo Câmpus.
+      1. O Câmpus deverá formalizar o aproveitamento da classificação dos projetos de pesquisa deste edital, por meio do lançamento e publicação interna de CHAMADA PÚBLICA INTERNA PARA APOIO A PROJETOS DE PESQUISA CIENTÍFICA E INOVAÇÃO TECNOLÓGICA, cujo modelo está disponível na Intranet.
+      2. O Coordenador de Pesquisa do câmpus deverá alterar, no SIGAA, a situação dos projetos que venham a ser atendidos, para “Contemplado com recursos do câmpus”.
+      3. Nas concessões previstas no item 13.1, os Câmpus serão responsáveis pela gestão orçamentária e operacional das bolsas discentes e do Auxílio Financeiro ao Pesquisador.
+      4. A concessão de bolsas discentes e auxílio financeiro ao pesquisador, pelos câmpus, deverá respeitar o resultado final deste edital.
+      5. O câmpus fica obrigado a providenciar o seguro para os Discentes Pesquisadores Bolsistas.
+
+
+
+
+  
+
+
+
+   1. O Coordenador do Projeto poderá, antes da data de início de execução do projeto, solicitar a desistência de participação neste edital, preenchendo o “Termo de Cancelamento de Projeto”, disponível na Intranet.
+   2. O “Termo de Cancelamento de Projeto” deverá ser encaminhado pelo requerente ao Coordenador de Pesquisa do Câmpus, o qual enviará o documento, por e-mail, com sua apreciação para a Coordenadoria de Pesquisa/PROPPI.
+
+
+
+
+   3. A Coordenadoria de Pesquisa/PROPPI analisará a solicitação e emitirá parecer. Em caso de parecer favorável, será providenciada a substituição do projeto, respeitando a ordem de classificação.
+
+
+
+
+  
+
+
+
+   1. O cancelamento do projeto de pesquisa poderá ocorrer por iniciativa do IFSC e/ou por iniciativa do Coordenador do Projeto, seja por desistência de participação no edital (item 12), por motivos alheios à vontade do Coordenador do Projeto, equipe executora do projeto e/ou IFSC ou por motivações de ordem funcional, legal ou judicial.
+   2. O cancelamento do projeto de pesquisa, quando por iniciativa da equipe executora ou do Câmpus, somente poderá ser solicitado mediante justificativa fundamentada e parecer da chefia imediata e Coordenação de Pesquisa do Câmpus.
+      1. Os procedimentos para o pedido de cancelamento encontram-se explicados no Manual para execução de projetos de pesquisa no IFSC.
+
+
+  
+
+
+
+   1. As solicitações de cancelamento de bolsas e substituição de bolsistas pagos com recursos da Reitoria deverão ser realizadas via formulário eletrônico, disponível na Intranet, junto ao edital, e seguir as orientações do Manual para indicação, cancelamento e substituição de bolsistas e não bolsistas.
+      1. Se a bolsa discente for fomentada com recursos próprios do Câmpus, o procedimento de cancelamento e substituição deverá ser verificado junto à Coordenadoria de Pesquisa local.
+   2. No primeiro mês de execução do projeto não serão aceitas solicitações de substituições de bolsistas.
+   3. No caso de cancelamentos, substituições e novas indicações de bolsistas, o Coordenador do Projeto deverá enviar formulário eletrônico com a documentação necessária, até o dia 12 de cada mês, para que a PROPPI tenha tempo hábil de realizar o procedimento e o bolsista seja incluído na folha de pagamento do mês corrente.
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+17.1 Em casos que se faça necessária a substituição do coordenador do projeto de pesquisa, devem ser seguidos os procedimentos do Manual para execução de projetos de pesquisa no IFSC.
+
+
+  
+
+
+
+
+
+   1. Encerrado o prazo de execução dos projetos, todos terão a sua situação alterada no SIGAA, pela Coordenadoria de Pesquisa/PROPPI, para “Finalizado, aguardando avaliação de resultados”.
+   2. Os resultados dos projetos contemplados deverão ser apresentados no final do período de execução:
+      1. Relatório de atividades do discente pesquisador bolsista;
+      2. Relatório final;
+      3. Comprovante de divulgação dos resultados da pesquisa.
+      1. O relatório de atividades do discente pesquisador bolsista, a critério da PROPPI, poderá ser substituído pela participação na Mostra Científica e Tecnológica do IFSC por intermédio de envio de resumo técnico expandido.
+      2. As orientações para o preenchimento e submissão dos documentos acima encontram-se no Manual para apresentação de resultados de projetos de pesquisa e prestação de contas.
+
+
+  
+
+
+
+   1. As  ações  de  monitoramento  e  avaliação  terão  caráter  preventivo,  educativo  e saneador, objetivando a gestão adequada e o alcance das metas dos projetos de pesquisa.
+
+
+
+
+   2. O monitoramento e acompanhamento ocorre desde a submissão até a conclusão dos projetos, englobando todas as fases de desenvolvimento das atividades de pesquisa.
+   3. É reservado ao IFSC o direito de acompanhar e avaliar a execução das atividades de pesquisa e realizar verificações in loco visando monitorar a utilização dos recursos durante a vigência dos projetos de pesquisa.
+   4. O IFSC poderá, a qualquer tempo, promover visitas técnicas, ou solicitar informações adicionais visando ao monitoramento e acompanhamento durante a execução dos projetos de pesquisa.
+   5. A avaliação e monitoramento serão realizadas, inclusive, pelos relatórios finais e por reuniões com objetivo específico de acompanhar a execução dos projetos e promover ações de mitigação de problemas e melhorias de processo.
+
+
+  
+
+
+
+
+
+   1. Decairá o direito de impugnar os termos deste Edital a qualquer interessado que não o fizer no prazo estipulado no calendário. Não terão efeito de recurso as impugnações feitas por aquele que apontar, posteriormente ao prazo supracitado, eventuais falhas ou imperfeições deste Edital.
+   2. A impugnação deverá ser dirigida à Coordenadoria de Pesquisa do IFSC, por envio de e-mail para o endereço pesquisa@ifsc.edu.br com o assunto: “Impugnação Edital 14/2023/PROPPI/DAE”.
+   3. A submissão de projetos implicará a tácita aceitação das condições estabelecidas neste edital, das quais o coordenador do projeto não poderá alegar desconhecimento.
+   4. O correto preenchimento dos formulários de submissão e das informações fornecidas pelo proponente, são de inteira responsabilidade do proponente.
+   5. As declarações de coordenação de projeto de pesquisa e de bolsistas deverão ser solicitadas, após apresentados os resultados do projeto, para o e-mail pesquisa@ifsc.edu.br.
+   6. As declarações para os membros da equipe executora deverão ser solicitadas ao coordenador do projeto de pesquisa.
+   7. Os servidores contemplados neste edital serão convidados a compor o banco de avaliadores do IFSC.
+   8. Caso a Coordenadoria de Pesquisa/PROPPI altere algum procedimento deste edital, será feita, oportunamente, a devida comunicação aos interessados.
+
+
+
+
+   9. Os casos omissos serão resolvidos pelo Comitê Permanente de Pesquisa, Pós- Graduação e Inovação do IFSC.
+   10. A qualquer tempo o presente Edital poderá ser suspenso, revogado ou anulado, no todo ou em parte, por decisão unilateral do IFSC, por motivo de interesse público, orçamento ou exigência legal, sem que isso implique direitos à indenização ou reclamação de qualquer natureza, não se constituindo direito adquirido de qualquer espécie.
+
+
+
+
+Florianópolis, 06 de outubro de 2023
+
+
+
+
+Maurício Gariba Júnior
+Reitor do IFSC
+Autorizado conforme despacho no documento 23292.034829/2023-78, em 04/10/2023
